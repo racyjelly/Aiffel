@@ -6,7 +6,7 @@
 ## 🧭Exploration Stage
 1. Machine Learning Project
 2. Iris dataset을 이용하여 품종 분류를 해보고 나아가 다양한 분류 문제에도 적용
-3. 손글씨 분류, 와인 분류, 유방암 여부에 대한 분류 모델을 학습
+3. <b>손글씨 분류, 와인 분류, 유방암 여부</b>에 대한 분류 모델을 학습
 
 ## 💗Retrospective method KPT(Keep-Problem-Try)
 + <b>Keep</b>: 적재적시에 구글링을 잘한다. 예전보다 구글링 하는 시간도 많이 단축되었다.  
