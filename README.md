@@ -1,5 +1,5 @@
 # 🏫Aiffel
-아이펠(AIFFEL)의 온라인 과정 전반기 → Fundamental Stage & Exploration Stage
+</b>아이펠(AIFFEL)의 온라인 과정 전반기<b> → Fundamental Stage & Exploration Stage
 
 
 ## 🧭Exploration Stage
