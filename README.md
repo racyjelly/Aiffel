@@ -21,5 +21,4 @@
 -----  
 
 **Source**: <https://aiffel.io/>  
-**Reference**: 상관관계 분석 시각화 seaborn heatmap visualization <https://m.blog.naver.com/kiddwannabe/221763497317>,   
-Emoji <https://emojipedia.org/growing-heart/>
+**Reference**: 상관관계 분석 시각화 seaborn heatmap visualization <https://m.blog.naver.com/kiddwannabe/221763497317>, Emoji <https://emojipedia.org/growing-heart/>
