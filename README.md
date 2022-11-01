@@ -9,7 +9,8 @@
 3. 손글씨 분류, 와인 분류, 유방암 여부에 대한 분류 모델을 학습
 
 ## 💗Retrospective method KPT(Keep-Problem-Try)
-+ <b>Keep</b>: 적재적시에 구글링을 잘한다. 예전보다 구글링 하는 시간도 많이 단축되었다.  필요한 라이브러리들을 찾아보지 않고 로드하는 것이 가능하다.  
++ <b>Keep</b>: 적재적시에 구글링을 잘한다. 예전보다 구글링 하는 시간도 많이 단축되었다.  
+필요한 라이브러리들을 찾아보지 않고 로드하는 것이 가능하다.  
 
 + <b>Problem</b>: Visualization을 많이 해보지 않아서 약하다. 특히나 Heatmap Visualization을 하기 위해 많은 시간을 소비했다.  그리고 Github를 많이 써보지 않아서 익숙하지가 않다. 그래서 git push를 할 때, 자꾸 master branch로만 push가 되어서 난관을 겪었다.    
 
