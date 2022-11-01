@@ -19,6 +19,6 @@
 오늘 main branch로 push하는 법을 알았으니 notion에 잘 정리해둘 것이다.
 
 
-<u>Source</u>: <https://aiffel.io/>  
-<u>Reference</u>: 상관관계 분석 시각화 seaborn heatmap visualization <https://m.blog.naver.com/kiddwannabe/221763497317>,   
+**Source**: <https://aiffel.io/>  
+**Reference**: 상관관계 분석 시각화 seaborn heatmap visualization <https://m.blog.naver.com/kiddwannabe/221763497317>,   
 Emoji <https://emojipedia.org/growing-heart/>
