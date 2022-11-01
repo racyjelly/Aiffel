@@ -18,6 +18,7 @@
 + <b>Try</b>: 평소에도 Visualization을 하는 습관을 자주 들여야 할 것 같다. 그리고 앞으로는 프로젝트와 내가 공부하는 것들을 꾸준히 Github에 올리는 습관도 함께 들이면 좋을 것 같다.  
 오늘 main branch로 push하는 법을 알았으니 notion에 잘 정리해둘 것이다.
 
+-----  
 
 **Source**: <https://aiffel.io/>  
 **Reference**: 상관관계 분석 시각화 seaborn heatmap visualization <https://m.blog.naver.com/kiddwannabe/221763497317>,   
