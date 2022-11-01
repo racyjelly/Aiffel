@@ -30,3 +30,4 @@ Try: 평소에도 Visualization을 하는 습관을 자주 들여야 할 것 같
 
 Source: <https://aiffel.io/>
 Reference: 상관관계 분석 시각화 seaborn heatmap visualization <https://m.blog.naver.com/kiddwannabe/221763497317>
+Emoji <https://emojipedia.org/growing-heart/>
