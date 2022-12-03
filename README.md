@@ -1,4 +1,4 @@
-# 🏫Aiffel_Mini_Project1
+# Aiffel_Mini_Project1
 <b>아이펠(AIFFEL)의 온라인 과정 전반기</b> → Fundamental Stage & Exploration Stage
 
 
